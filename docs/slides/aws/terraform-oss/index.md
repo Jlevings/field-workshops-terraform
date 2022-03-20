@@ -38,15 +38,14 @@ layout: true
 ---
 name: Introductions
 # Introductions
-- Your Name
-- Job Title
-- Automation Experience
-- Favorite Text Editor
+- Joe Levingston
+- Solutions Engineer
+- VS Code
 
 ???
-Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
+My name is Joe Levingston and I will be your presenter for today. I am a Solutions Engineer at Hashicorp. Prior to this I've spent the last 7 years working in pre-sales with a variety of experience with various hardware software and cloud infrastructure and tools. 
 
-The favorite text editor question is a good ice breaker, but perhaps more importantly it gives you an immediate gauge of how technical your users are.
+My favorite text editor is VS Code. I like the different plugins that are available to assist my poor formatting. 
 
 **There are no wrong answers to this question. Unless you say Notepad. Friends don't let friends write code in Notepad.**
 
